@@ -1,3 +1,4 @@
 local 
 druga linia 
 trzecia linia 
+czwarta linia
